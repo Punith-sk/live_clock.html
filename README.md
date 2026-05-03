@@ -1,4 +1,4 @@
-# TradersHub (MVP)
+# TradersHub (MVP) -- ChatGPT
 
 TradersHub is a full-stack paper trading app with social posting.
 
